@@ -1,0 +1,44 @@
+{
+    "Accounts": [
+        {
+            "balance": 50000,
+            "card": "4535 9024 6646 4222",
+            "id": 1,
+            "name": "Jakob Williams",
+            "password": 3712,
+            "tax": true
+        },
+        {
+            "balance": 90000,
+            "card": "4535 9028 5647 2827",
+            "id": 2,
+            "name": "David Jones",
+            "password": 2901,
+            "tax": true
+        },
+        {
+            "balance": 23000,
+            "card": "4535 9030 7577 7145",
+            "id": 3,
+            "name": "James Anderson",
+            "password": 4178,
+            "tax": false
+        },
+        {
+            "balance": 65000,
+            "card": "4535 9005 0487 2265",
+            "id": 4,
+            "name": "Danniel Shaw",
+            "password": 5894,
+            "tax": true
+        },
+        {
+            "balance": 158000,
+            "card": "4535 9027 1031 2367",
+            "id": 5,
+            "name": "Luck Hernandez",
+            "password": 3027,
+            "tax": false
+        }
+    ]
+}

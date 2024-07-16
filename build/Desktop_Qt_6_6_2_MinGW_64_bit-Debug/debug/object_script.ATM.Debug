@@ -1,0 +1,14 @@
+debug/cashwithdrawal.o
+debug/changepassword.o
+debug/home.o
+debug/information.o
+debug/main.o
+debug/mainwindow.o
+debug/moneytransfer.o
+debug/qrc_Source.o
+debug/moc_cashwithdrawal.o
+debug/moc_changepassword.o
+debug/moc_home.o
+debug/moc_information.o
+debug/moc_mainwindow.o
+debug/moc_moneytransfer.o

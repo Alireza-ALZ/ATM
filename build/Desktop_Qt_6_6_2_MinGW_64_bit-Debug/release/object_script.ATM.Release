@@ -1,0 +1,14 @@
+release/cashwithdrawal.o
+release/changepassword.o
+release/home.o
+release/information.o
+release/main.o
+release/mainwindow.o
+release/moneytransfer.o
+release/qrc_Source.o
+release/moc_cashwithdrawal.o
+release/moc_changepassword.o
+release/moc_home.o
+release/moc_information.o
+release/moc_mainwindow.o
+release/moc_moneytransfer.o

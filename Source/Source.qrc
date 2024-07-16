@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/Login.jpg</file>
+        <file>Images/Left Hand Pointer.png</file>
+        <file>Images/Right Hand Pointer.png</file>
+    </qresource>
+    <qresource prefix="/Voices"/>
+</RCC>
